@@ -1,22 +1,21 @@
 # Project information
-site_name:  PDSA
+site_name:  MATHS2
 # defeine TOC or order of website-
 nav:
   - Home: index.md
-  - test.md
-  - pdf: 
-      - pdf/embeding.md
+  - MIT_text: text.md
+  - notes_mit: notes.md
 site_author: PK 
 site_description: >- 
   DESCRIPTION
 
 # Repository
-repo_name: pk1308/PDSA
-repo_url: https://github.com/pk1308/PDSA
+repo_name: pk1308/maths2
+repo_url: https://github.com/pk1308/maths2
 # Configuration
 
 theme:
-  name: material
+  name: dracula
   features:
     - navigation.tabs
     - navigation.sections
