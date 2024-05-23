@@ -15,7 +15,7 @@ repo_url: https://github.com/pk1308/maths2
 # Configuration
 
 theme:
-  name: dracula
+  name: material
   features:
     - navigation.tabs
     - navigation.sections
